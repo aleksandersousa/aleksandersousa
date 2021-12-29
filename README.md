@@ -20,7 +20,7 @@ I am a Full Stack developer in progress, extremely curious and fast learning.
 
 ## :iphone: Find me elsewhere
   [![Discord](https://img.icons8.com/fluent/48/000000/discord-logo.png)](https://discordapp.com/users/484144193258782730)
-  [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/00_aleksander/)
+  [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/_bambin00/)
   [![Facebook](https://img.icons8.com/fluent/48/000000/facebook-new.png)](https://www.facebook.com/aleksander.sousa.3/)
 
 ## Glad to see you here   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${aleksandersousa}.${https://github.com/aleksandersousa/aleksandersousa.git)
