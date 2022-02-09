@@ -24,6 +24,9 @@ Currently studying react and node avidly.
 
 ### Database:
 
+[![MySQL](https://img.shields.io/badge/MySQL-red?style=for-the-badge&logo=mysql](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-yellowgreen?style=for-the-badge&logo=mongodb](#)
+
 ## :chart_with_upwards_trend: My GitHub stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleksandersousa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
