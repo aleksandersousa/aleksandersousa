@@ -35,9 +35,9 @@ Currently studying Clean Arch and SOLID Principles avidly.
 
 ## :chart_with_upwards_trend: My GitHub stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleksandersousa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleksandersousa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandersousa&layout=compact" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleksandersousa&layout=compact" />
 
 ## :iphone: Find me elsewhere
 
